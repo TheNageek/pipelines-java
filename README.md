@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/keegankwalsh/First%20Pipeline/_apis/build/status/TheNageek.pipelines-java?branchName=master)](https://dev.azure.com/keegankwalsh/First%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
